@@ -137,7 +137,7 @@
 		lineColor=0x3390eb,
 		shield={
 			strength=1000,
-			regen=200*5,
+			regen=200,
 			delay=10,
 			radius=100,
 			color=0x190e1418,
@@ -344,7 +344,7 @@
 		lineColor=0xfca904, 
 		shield={
 			strength=1200, 
-			regen=250,*5 
+			regen=250*5,
 			radius=100,
 			color=0x19332202,
 			lineColor=0xc332202, 
