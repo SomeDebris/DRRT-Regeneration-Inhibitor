@@ -12,6 +12,8 @@ This mod was made to look more official than a "simple cvar mod" so that partici
 
 This mod was created to test the idea that decreasing the overall regeneration rate will make damage more meaningful. I believe that this is a good idea for DRRTs.
 
+Commonly, in the DRRT series, the _Standardized Factions_ mod is required for ship design. **Make sure this mod is placed BEFORE Standardized Factions in Reassembly's mod list.**
+
 If you don't download this mod from [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2810491105), place the contents of this repository into your `mods/` folder, as you would with any other mod. 
 
 That is, clone this repository to your `mods/` folder:
