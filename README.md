@@ -5,7 +5,7 @@ This mod is made for the Debris Regional Reassembly Tournament series.
 
 `kSlowGrowRate = 0.2`
 
-This cvar makes BLOCKS regenerate at one fifth (20%) of the rate at which they do in Tournament mode.
+This cvar makes BLOCKS in Tournament mode regenerate at one fifth (20%) of the rate at which they do in campaign mode.
 Shield regeneration is unaffected.
 
 This mod was made to look more official than a "simple cvar mod" so that participants could more easily find it.
